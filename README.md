@@ -45,10 +45,10 @@
 
 ### 📌 Quick Highlights
 
-- 🚀 **Featured Projects:** Built and deployed 4+ full-stack web applications, including a Badminton E-Commerce Shop (React & Firebase) and an Expenses Management Tracker (MERN Stack)[cite: 1].
-- 🔐 **Core Strengths:** Designing RESTful APIs, securing applications with JWT Authentication & Bcrypt, and handling live database integration (MongoDB, MySQL, Firestore)[cite: 1].
-- 💼 **Industrial Experience:** Completed 6 months of hands-on Full Stack Development training at Code Pulse IT Services, mastering version control and team collaboration with Git/GitHub[cite: 1].
-- 🎓 **Academic Background:** Pursuing B.Tech in Computer Science & Engineering (2023–2027) at Vaish College of Engineering[cite: 1].
+- 🚀 **Featured Projects:** Built and deployed 4+ full-stack web applications, including a Badminton E-Commerce Shop (React & Firebase) and an Expenses Management Tracker (MERN Stack).
+- 🔐 **Core Strengths:** Designing RESTful APIs, securing applications with JWT Authentication & Bcrypt, and handling live database integration (MongoDB, MySQL, Firestore).
+- 💼 **Industrial Experience:** Completed 6 months of hands-on Full Stack Development training at Code Pulse IT Services, mastering version control and team collaboration with Git/GitHub.
+- 🎓 **Academic Background:** Pursuing B.Tech in Computer Science & Engineering (2023–2027) at Vaish College of Engineering.
 
 ---
 
