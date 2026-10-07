@@ -53,12 +53,4 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering** – Vaish College of Engineering (2023–2027)[cite: 1]
 - 🏢 **Full Stack Development Trainee** – Code Pulse IT Services (6-Month Industrial Training)[cite: 1]
-- 📜 **Certifications:** SQL Self Learning Course, Full Stack Industrial Training, Udemy Web Development[cite: 1]
-
----
-
-### 📊 GitHub Overview
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsharma2246&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma2246&layout=compact&theme=default&hide=c,cpp,html,css)
+- 📜 **Certifications:** SQL Self Learning Course, Full Stack Industrial Training, Udemy Web Development
