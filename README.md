@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil 👋
 
-🚀 **Full Stack Developer** specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) and MySQL.
+🚀 **Full Stack Developer** specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), Python, and MySQL.
 🎓 Pursuing B.Tech in Computer Science & Engineering at Vaish College of Engineering (2023–2027).
 💡 Passionate about building responsive web applications, secure RESTful APIs, and scalable backend services.
 
@@ -8,10 +8,15 @@
 
 ### 💻 Technical Stack
 
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
