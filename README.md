@@ -61,4 +61,4 @@
 
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsharma2246&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma2246&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma2246&layout=compact&theme=default&hide=c,cpp,html,css)
