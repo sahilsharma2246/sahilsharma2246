@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi 👋, I'm Sahil Sharma
-  ### **Full Stack MERN Developer & Python Enthusiast**
+  ### **Full Stack Developer & Python Enthusiast**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-sharma-251589358)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilwsharma2246@gmail.com)
