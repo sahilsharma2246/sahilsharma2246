@@ -37,4 +37,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+---
+
+### 📌 Quick Highlights
+
+- 🚀 **Featured Projects:** Built and deployed 4+ full-stack web applications, including a Badminton E-Commerce Shop (React & Firebase) and an Expenses Management Tracker (MERN Stack).
+- 🔐 **Core Strengths:** Designing RESTful APIs, securing applications with JWT Authentication & Bcrypt, and handling live database integration (MongoDB, MySQL, Firestore).
+- 💼 **Industrial Experience:** Completed 6 months of hands-on Full Stack Development training at Code Pulse IT Services, mastering version control and team collaboration with Git/GitHub.
+- 🎓 **Academic Background:** Pursuing B.Tech in Computer Science & Engineering (2023–2027) at Vaish College of Engineering.
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sahilsharma2246&show_icons=true&theme=dark&hide_rank=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahilsharma2246&layout=compact&theme=dark" width="48%" />
+</p>
