@@ -1,16 +1,16 @@
 <div align="center">
 
-  # Hi 👋, I'm Sahil Sharma
-  ### **Full Stack Developer & Python Enthusiast**
+# Hi 👋, I'm Sahil Sharma
+### **Full Stack Developer & Python Enthusiast**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-sharma-251589358)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilwsharma2246@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-sharma-251589358)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilwsharma2246@gmail.com)
 
-  <br/>
+<br/>
 
-  🎓 **B.Tech CSE** @ Vaish College of Engineering (2023–2027)  
-  🏢 **Ex-Trainee** @ Code Pulse IT Services (1-Year Industrial Training)  
-  📍 **Rohtak, Haryana, India**
+🎓 **B.Tech CSE** @ Vaish College of Engineering (2023–2027)  
+🏢 **Ex-Trainee** @ Code Pulse IT Services (1-Year Industrial Training)  
+📍 **Rohtak, Haryana, India**
 
 </div>
 
@@ -55,6 +55,6 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahilsharma2246&show_icons=true&theme=dark&hide_rank=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma2246&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsharma2246&show_icons=true&theme=dark&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma2246&layout=compact&theme=dark" width="48%" />
 </p>
